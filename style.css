@@ -1,0 +1,59 @@
+header{
+    background-color: rgb(218, 23, 23);
+    color:rgb(147, 255, 7);
+    padding: 30px;
+}
+.menu-item{
+    list-style: none;
+}
+.menu-link{
+    color:white;
+    text-decoration: none;
+    text-transform: uppercase ;
+    font-weight: bold;
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    padding: 20px;
+    margin: 0 auto;
+
+}
+.title-logo{
+    margin-bottom: 15px;
+}
+.banner{
+    background-image: url(img/banner.jpg);
+    color:red
+}
+.banner-title {
+    font-size: 55px;
+}
+.cards{
+    padding: 30px;
+    color:red ;
+    text-align: center;
+}
+.card{
+    padding: 25px;
+    margin-top: 25px;
+    width: 25%;
+    text-align: center;
+}
+.card-img{
+    border-width: 2px;
+    border: yellow solid ;
+}
+.card-button{
+    text-align: center;
+    background-color:red;
+    border-radius: 10px;
+    padding: 10px;
+}
+.footer{
+    background-image: url(img/footer.webp);
+    padding: 100px;
+}
